@@ -1,0 +1,4 @@
+nome = input("Qual o seu nome? ")
+
+# print("Prazer em te conhecer, %s!" % nome)
+print("Prazer em te conhecer, {}!" .format(nome))
