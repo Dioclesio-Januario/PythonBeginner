@@ -1,2 +1,2 @@
-# PythonBeginner
- Resolução de exercícios de introdução à programação com linguagem Python.
+# Python Beginner
+ Solutions to Exercises for Introduction to Programming with Python.
